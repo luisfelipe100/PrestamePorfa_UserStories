@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mount: 1.5
+  interest_rate: 1.5
+  term_limit: 1
+  date_limit: 2017-05-11
+  payment_frequency: MyString
+  debtor: one
+  creditor: one
+
+two:
+  mount: 1.5
+  interest_rate: 1.5
+  term_limit: 1
+  date_limit: 2017-05-11
+  payment_frequency: MyString
+  debtor: two
+  creditor: two
